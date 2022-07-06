@@ -4,7 +4,7 @@ public class Main {
         
     }
     public int add(int a, int b){
-        System.out.println("this is add method for 2 params");
+        System.out.println("this is add method");
         return a+b;
     }
     public int add(int a, int b,int c){
