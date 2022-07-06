@@ -4,8 +4,12 @@ public class Main {
         
     }
     public int add(int a, int b){
-        System.out.println("this is add method");
+        System.out.println("this is add method for 2 params");
         return a+b;
+    }
+    public int add(int a, int b,int c){
+        System.out.println("this is add method for 3 params");
+        return a+b+c;
     }
     
 }
